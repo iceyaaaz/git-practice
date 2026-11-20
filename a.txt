@@ -1,3 +1,4 @@
-hello from master2
+
+hello from master2 and feature2
 second line
 feature line
